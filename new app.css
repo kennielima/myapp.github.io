@@ -236,7 +236,7 @@ html {
     margin: auto;
 }
 .bk-img {
-    background-image: url("https://kennielima.github.io/myapp.github.io/frame3.jpg");
+    background-image: url("./frame3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
