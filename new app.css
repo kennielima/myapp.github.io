@@ -16,7 +16,7 @@ html {
     top: 0;
     z-index: -1;
     width: 100%;
-    background-image: url("frame2.jpg");
+    background-image: url("https://kennielima.github.io/myapp.github.io/frame2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -236,7 +236,7 @@ html {
     margin: auto;
 }
 .bk-img {
-    background-image: url("frame3.jpg");
+    background-image: url("https://kennielima.github.io/myapp.github.io/frame3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
