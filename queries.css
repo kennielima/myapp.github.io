@@ -30,6 +30,10 @@
 
 /* below 651px */
 @media (max-width:41rem) {
+    * {
+        margin: 0;
+        width: auto;
+    }
     .feature2 {
         flex-direction: column;
     }
@@ -42,7 +46,18 @@
         flex-direction: column;
     }
 
-    .hero-head,
+     /* .featured {
+        overflow: hidden;
+    }  */
+    .vimeo {
+        display: none
+    }
+    .footer {
+        display: grid;
+    }
+    .hero-head {
+        /* padding: auto; */
+    }
     .spkrdiv,
     .headp,
     .phone {
@@ -70,7 +85,7 @@
         /* transition: all 1s; */
         flex-direction: column;
         background-color: rgba(70, 70, 70, 0.832);
-        padding: 3rem;
+        /* padding: 3rem; */
         gap: 3rem;
         position: absolute;
         top: 4rem;
@@ -90,6 +105,13 @@
 
     .header {
         padding: 0 0;
+    }
+    .foot,.ff,.chatimg {
+        text-align: start;
+        margin: 0;
+    }
+    .foot2 {
+    padding-top: 0;
     }
 }
 
