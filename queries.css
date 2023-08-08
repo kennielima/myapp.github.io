@@ -72,7 +72,6 @@
 
     #ham {
         display: block;
-        /* color: white; */
         background-color: rgb(70, 70, 70);
         height: inherit;
         width: 4rem;
