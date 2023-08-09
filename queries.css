@@ -93,7 +93,10 @@
     .header {
         padding: 0 0;
     }
-
+    
+    .price {
+        display: grid;
+    }
     .vimeo {
         display: none;
     }
