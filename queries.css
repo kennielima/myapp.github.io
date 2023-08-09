@@ -46,18 +46,6 @@
         flex-direction: column;
     }
 
-     /* .featured {
-        overflow: hidden;
-    }  */
-    .vimeo {
-        display: none
-    }
-    .footer {
-        display: grid;
-    }
-    .hero-head {
-        /* padding: auto; */
-    }
     .spkrdiv,
     .headp,
     .phone {
@@ -104,6 +92,13 @@
 
     .header {
         padding: 0 0;
+    }
+    
+    .vimeo {
+        display: none;
+    }
+    .footer {
+        display: grid;
     }
     .foot,.ff,.chatimg {
         text-align: start;
