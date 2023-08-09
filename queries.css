@@ -97,6 +97,12 @@
     .price {
         display: grid;
     }
+    .prices {
+        padding: 5rem;
+    }
+    #pricing {
+        padding-top: 3rem;
+    }
     .vimeo {
         display: none;
     }
